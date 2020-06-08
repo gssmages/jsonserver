@@ -66,12 +66,11 @@
       "Event-Organisedby": "Celebrity"
     }
   ],
-	"master": [
+  "master": [
     {
       "id": 1,
       "Machinename": "Machine1",
-      "Description": "Machine error related",
-      
+      "Description": "Machine error related",      
     },{
       "id": 2,
       "Machinename": "Machine2",
