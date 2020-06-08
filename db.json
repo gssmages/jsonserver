@@ -1,107 +1,103 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "Event-Title": "Marriage Function",
-      "Description": "Marriage Function to be held for Bride Grom function with relations",
-      "Event-DateTime": "2020-02-01 10:00:00",
-      "Event-Place": "Chennai",
-      "Event-Duration": "2 Days",
-      "Event-Organisedby": "Celebrity"
-    },{
-      "id": 2,
-      "Event-Title": "Betrothal Function",
-      "Description": "Betrothal Function to be held for Bride Grom function with relations",
-      "Event-DateTime": "2020-02-02 10:00:00",
-      "Event-Place": "Chennai",
-      "Event-Duration": "1 Days",
-      "Event-Organisedby": "Celebrity"
-    },{
-      "id": 3,
-      "Event-Title": "Marriage Function",
-      "Description": "Marriage Function to be held for Bride Grom function with relations",
-      "Event-DateTime": "2020-02-03 10:00:00",
-      "Event-Place": "Chennai",
-      "Event-Duration": "1 Days",
-      "Event-Organisedby": "Celebrity"
-    },{
-      "id": 4,
-      "Event-Title": "Marriage Function",
-      "Description": "Marriage Function to be held for Bride Grom function with relations",
-      "Event-DateTime": "2020-02-04 10:00:00",
-      "Event-Place": "Chennai",
-      "Event-Duration": "1 Days",
-      "Event-Organisedby": "Celebrity"
-    },{
-      "id": 5,
-      "Event-Title": "Marriage Function",
-      "Description": "Marriage Function to be held for Bride Grom function with relations",
-      "Event-DateTime": "2020-02-05 10:00:00",
-      "Event-Place": "Chennai",
-      "Event-Duration": "3 Days",
-      "Event-Organisedby": "Celebrity"
-    },{
-      "id": 6,
-      "Event-Title": "Marriage Function",
-      "Description": "Marriage Function to be held for Bride Grom function with relations",
-      "Event-DateTime": "2020-02-06 10:00:00",
-      "Event-Place": "Chennai",
-      "Event-Duration": "2 Days",
-      "Event-Organisedby": "Celebrity"
-    },{
-      "id": 7,
-      "Event-Title": "Marriage Function",
-      "Description": "Marriage Function to be held for Bride Grom function with relations",
-      "Event-DateTime": "2020-02-07 10:00:00",
-      "Event-Place": "Chennai",
-      "Event-Duration": "2 Days",
-      "Event-Organisedby": "Celebrity"
-    },{
-      "id": 8,
-      "Event-Title": "Marriage Function",
-      "Description": "Marriage Function to be held for Bride Grom function with relations",
-      "Event-DateTime": "2020-02-08 10:00:00",
-      "Event-Place": "Chennai",
-      "Event-Duration": "1 Days",
-      "Event-Organisedby": "Celebrity"
-    }
-  ],
-  "master": [
-    {
-      "id": 1,
-      "Machinename": "Machine1",
-      "Description": "Machine error related",      
-    },{
-      "id": 2,
-      "Machinename": "Machine2",
-      "Description": "Machine error related",
-    },{
-     "id": 3,
-      "Machinename": "Machine3",
-       "Description": "Machine error related",
-    },{
-     "id": 4,
-      "Machinename": "Machine4",
-      "Description": "Machine error related",
-    },{
-      "id": 5,
-      "Machinename": "Machine5",
-      "Description": "Machine error related",
-    },{
-      "id": 6,
-      "Machinename": "Machine6",
-      "Description": "Machine error related",
-    },{
-      "id": 7,
-      "Machinename": "Machine7",
-       "Description": "Machine error related",
-    },{
-      "id": 8,
-      "Machinename": "Machine8",
-       "Description": "Machine error related",
-    }
-  ],
-  "profile": {
-    "name": "magesh"
-  }
+	"posts": [{
+		"id": 1,
+		"Event-Title": "Marriage Function",
+		"Description": "Marriage Function to be held for Bride Grom function with relations",
+		"Event-DateTime": "2020-02-01 10:00:00",
+		"Event-Place": "Chennai",
+		"Event-Duration": "2 Days",
+		"Event-Organisedby": "Celebrity"
+	}, {
+		"id": 2,
+		"Event-Title": "Betrothal Function",
+		"Description": "Betrothal Function to be held for Bride Grom function with relations",
+		"Event-DateTime": "2020-02-02 10:00:00",
+		"Event-Place": "Chennai",
+		"Event-Duration": "1 Days",
+		"Event-Organisedby": "Celebrity"
+	}, {
+		"id": 3,
+		"Event-Title": "Marriage Function",
+		"Description": "Marriage Function to be held for Bride Grom function with relations",
+		"Event-DateTime": "2020-02-03 10:00:00",
+		"Event-Place": "Chennai",
+		"Event-Duration": "1 Days",
+		"Event-Organisedby": "Celebrity"
+	}, {
+		"id": 4,
+		"Event-Title": "Marriage Function",
+		"Description": "Marriage Function to be held for Bride Grom function with relations",
+		"Event-DateTime": "2020-02-04 10:00:00",
+		"Event-Place": "Chennai",
+		"Event-Duration": "1 Days",
+		"Event-Organisedby": "Celebrity"
+	}, {
+		"id": 5,
+		"Event-Title": "Marriage Function",
+		"Description": "Marriage Function to be held for Bride Grom function with relations",
+		"Event-DateTime": "2020-02-05 10:00:00",
+		"Event-Place": "Chennai",
+		"Event-Duration": "3 Days",
+		"Event-Organisedby": "Celebrity"
+	}, {
+		"id": 6,
+		"Event-Title": "Marriage Function",
+		"Description": "Marriage Function to be held for Bride Grom function with relations",
+		"Event-DateTime": "2020-02-06 10:00:00",
+		"Event-Place": "Chennai",
+		"Event-Duration": "2 Days",
+		"Event-Organisedby": "Celebrity"
+	}, {
+		"id": 7,
+		"Event-Title": "Marriage Function",
+		"Description": "Marriage Function to be held for Bride Grom function with relations",
+		"Event-DateTime": "2020-02-07 10:00:00",
+		"Event-Place": "Chennai",
+		"Event-Duration": "2 Days",
+		"Event-Organisedby": "Celebrity"
+	}, {
+		"id": 8,
+		"Event-Title": "Marriage Function",
+		"Description": "Marriage Function to be held for Bride Grom function with relations",
+		"Event-DateTime": "2020-02-08 10:00:00",
+		"Event-Place": "Chennai",
+		"Event-Duration": "1 Days",
+		"Event-Organisedby": "Celebrity"
+	}],
+	"master": [{
+		"id": 1,
+		"Machinename": "Machine1",
+		"Description": "Machine error related"
+	}, {
+		"id": 2,
+		"Machinename": "Machine2",
+		"Description": "Machine error related"
+	}, {
+		"id": 3,
+		"Machinename": "Machine3",
+		"Description": "Machine error related"
+	}, {
+		"id": 4,
+		"Machinename": "Machine4",
+		"Description": "Machine error related"
+	}, {
+		"id": 5,
+		"Machinename": "Machine5",
+		"Description": "Machine error related"
+	}, {
+		"id": 6,
+		"Machinename": "Machine6",
+		"Description": "Machine error related"
+	}, {
+		"id": 7,
+		"Machinename": "Machine7",
+		"Description": "Machine error related"
+	}, {
+		"id": 8,
+		"Machinename": "Machine8",
+		"Description": "Machine error related"
+	}],
+	"profile": {
+		"name": "magesh"
+	}
 }
