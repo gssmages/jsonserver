@@ -66,6 +66,42 @@
       "Event-Organisedby": "Celebrity"
     }
   ],
+	"master": [
+    {
+      "id": 1,
+      "Machinename": "Machine1",
+      "Description": "Machine error related",
+      
+    },{
+      "id": 2,
+      "Machinename": "Machine2",
+      "Description": "Machine error related",
+    },{
+     "id": 3,
+      "Machinename": "Machine3",
+       "Description": "Machine error related",
+    },{
+     "id": 4,
+      "Machinename": "Machine4",
+      "Description": "Machine error related",
+    },{
+      "id": 5,
+      "Machinename": "Machine5",
+      "Description": "Machine error related",
+    },{
+      "id": 6,
+      "Machinename": "Machine6",
+      "Description": "Machine error related",
+    },{
+      "id": 7,
+      "Machinename": "Machine7",
+       "Description": "Machine error related",
+    },{
+      "id": 8,
+      "Machinename": "Machine8",
+       "Description": "Machine error related",
+    }
+  ],
   "profile": {
     "name": "magesh"
   }
