@@ -97,54 +97,53 @@
 		"Machinename": "Machine8",
 		"Description": "Machine error related"
 	}],
-         "goeasylocation":[{
-  "RouteNo": "P25",
-  "TravelDate": "31-Mar-2020",
-  "ShiftTime": "14:00",
-  "LatLngs": [
-    {
-      "Latitude": "11.127122499999999",
-      "Longtitude": "78.6568942"
-    }, 
-    {
-      "Latitude": "11.127122499999999",
-      "Longtitude": "78.6568942"
-    },
-    {
-      "Latitude": "11.127122499999999",
-      "Longtitude": "78.6568942"
-    },
-    {
-      "Latitude": "11.127122499999999",
-      "Longtitude": "78.6568942"
-    },
-    {
-      "Latitude": "11.127122499999999",
-      "Longtitude": "78.6568942"
-    },
-    {
-      "Latitude": "11.127122499999999",
-      "Longtitude": "78.6568942"
-    },
-   
-    {
-      "Latitude": "11.127122499999999",
-      "Longtitude": "78.6568942"
-    },
-    {
-      "Latitude": "11.127122499999999",
-      "Longtitude": "78.6568942"
-    },
-    {
-      "Latitude": "11.127122499999999",
-      "Longtitude": "78.6568942"
-    },
-    {
-      "Latitude": "12.9525063",
-      "Longtitude": "80.1498398"
-    }
-  ]
-}]
+	"goeasylocation": [{
+		"RouteNo": "P25",
+		"TravelDate": "31-Mar-2020",
+		"ShiftTime": "14:00",
+		"LatLngs": [{
+				"Latitude": "11.127122499999999",
+				"Longtitude": "78.6568942"
+			},
+			{
+				"Latitude": "11.127122499999999",
+				"Longtitude": "78.6568942"
+			},
+			{
+				"Latitude": "11.127122499999999",
+				"Longtitude": "78.6568942"
+			},
+			{
+				"Latitude": "11.127122499999999",
+				"Longtitude": "78.6568942"
+			},
+			{
+				"Latitude": "11.127122499999999",
+				"Longtitude": "78.6568942"
+			},
+			{
+				"Latitude": "11.127122499999999",
+				"Longtitude": "78.6568942"
+			},
+
+			{
+				"Latitude": "11.127122499999999",
+				"Longtitude": "78.6568942"
+			},
+			{
+				"Latitude": "11.127122499999999",
+				"Longtitude": "78.6568942"
+			},
+			{
+				"Latitude": "11.127122499999999",
+				"Longtitude": "78.6568942"
+			},
+			{
+				"Latitude": "12.9525063",
+				"Longtitude": "80.1498398"
+			}
+		]
+	}],
 	"profile": {
 		"name": "magesh"
 	}
